@@ -1,0 +1,6 @@
+TFORM	DIRECTORY			   		     HOSTNAME  		PREC SITE  COMPILER COMM UTEST_TYPE UTEST_RUN SYSTEST_RUN SYS_TEST_TYPE CO TAG
+1 ys  /glade/work/svasquez/SACADO_test/810bs08 ys	64 default  intel  intelmpi  EX MULTI MULTI   NON_THREADED   
+LOG_DIR1    /glade/work/svasquez/SACADO_test/810bs08/esmf_logs ERROR
+email_title ESMF_Trunk_BFB_Cheyenne_intel_Test
+email_to   esmf-test@lists.sourceforge.net
+
